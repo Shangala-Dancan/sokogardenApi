@@ -30,6 +30,8 @@ def calc():
 def message():
     return jsonify({"Message":"welcome to modcom"})
 
+    
+
 
 
 
